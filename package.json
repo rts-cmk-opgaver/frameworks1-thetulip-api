@@ -1,0 +1,19 @@
+{
+  "name": "the-tulip-api",
+  "version": "1.0.0",
+  "description": "api for the tulip assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rts-cmk-opgaver/the-tulip-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rts-cmk-opgaver/the-tulip-api/issues"
+  },
+  "homepage": "https://github.com/rts-cmk-opgaver/the-tulip-api#readme"
+}
