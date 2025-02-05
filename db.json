@@ -77,49 +77,49 @@
     "spots": [
         {
             "id": 1,
-            "icon": "IoRestaurantOutline",
+            "icon": "utensils",
             "name": "Restaurant",
             "text": "Lorem ipsum dolor sit amet, consectetur"
         },
         {
             "id": 2,
-            "icon": "IoCarOutline",
+            "icon": "car-alt",
             "name": "Transport Facility",
             "text": "Lorem ipsum dolor sit amet, consectetur"
         },
         {
             "id": 3,
-            "icon": "IoHeartOutline",
+            "icon": "spa",
             "name": "Spa and Salon",
             "text": "Lorem ipsum dolor sit amet, consectetur"
         },
         {
             "id": 4,
-            "icon": "IoWifiOutline",
+            "icon": "wifi",
             "name": "Free Wifi",
             "text": "Lorem ipsum dolor sit amet, consectetur"
         },
         {
             "id": 5,
-            "icon": "IoTennisballOutline",
+            "icon": "heartbeat",
             "name": "Tennis Court",
             "text": "Lorem ipsum dolor sit amet, consectetur"
         },
         {
             "id": 6,
-            "icon": "IoBeerOutline",
+            "icon": "beer",
             "name": "Mini Bar",
             "text": "Lorem ipsum dolor sit amet, consectetur"
         },
         {
             "id": 7,
-            "icon": "IoStarOutline",
+            "icon": "star",
             "name": "Conference Room",
             "text": "Lorem ipsum dolor sit amet, consectetur"
         },
         {
             "id": 8,
-            "icon": "IoGameControllerOutline",
+            "icon": "gamepad",
             "name": "Game Room",
             "text": "Lorem ipsum dolor sit amet, consectetur"
         }
